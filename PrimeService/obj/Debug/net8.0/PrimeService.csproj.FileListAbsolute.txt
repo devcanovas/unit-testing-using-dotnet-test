@@ -1,0 +1,11 @@
+D:\projects\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.deps.json
+D:\projects\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.dll
+D:\projects\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net8.0\PrimeService.pdb
+D:\projects\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfoInputs.cache
+D:\projects\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfo.cs
+D:\projects\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.csproj.CoreCompileInputs.cache
+D:\projects\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.dll
+D:\projects\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
+D:\projects\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.pdb
+D:\projects\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll
